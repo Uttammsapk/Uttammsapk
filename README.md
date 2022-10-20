@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Uttam D. 
 - 👀 I’m interested in learning new coding languages.
-- 🌱 I’m currently learning and wprking on python, html, css, javascrpit.
+- 🌱 I’m currently learning and working on python, html, css, javascrpit.
+- 👌 Currently working on developing my skills on data structure and algorithims. 
 - 💞️ I’m looking to get internship as a freshman student of CS. 
 - 📫 You can reach me through my Email. 
 
