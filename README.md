@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Uttam D. Sapkota
+- 👋 Hi, I’m Uttam Dev Sapkota
 - 👀 I’m passionate about leveraging my skills in software engineering, computer vision, and data analytics to solve real-world challenges.
 - 🌱 I’m currently honing my expertise in Python, Java, JavaScript, and Swift, with a focus on data structures, algorithms, and full-stack development.
 - 💼 I recently completed an internship at Enbridge Inc, where I contributed to a chatbot UI web app using Azure and spearheaded optimization projects, potentially      boosting annual sales by over $100 million.
